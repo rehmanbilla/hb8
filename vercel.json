@@ -12,7 +12,7 @@
   ],
   "headers": [
     {
-      "source": "/HBL.apk",
+      "source": "/HBL Mobile 8.apk",
       "headers": [
         {
           "key": "Content-Type",
@@ -20,7 +20,7 @@
         },
         {
           "key": "Content-Disposition",
-          "value": "attachment; filename=HBL.apk"
+          "value": "attachment; filename=\"HBL Mobile 8.apk\""
         }
       ]
     },
